@@ -1,5 +1,7 @@
 # Images Dataset Builder
 
+![image](https://user-images.githubusercontent.com/66858782/225959951-b5f5b0cd-f6af-4771-ab9e-8f3ab6bae73e.png)
+
 **Image Dataset Builder** is an open source tool that you can use to build your own images datasets using a python web crawler.
 
 - [Installation](#installation)
