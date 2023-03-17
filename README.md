@@ -10,7 +10,7 @@
 ## Installation
 ```
 git clone https://github.com/danglock/Images-Dataset-Builder
-cd folder-master/
+cd Images-Dataset-Builder/
 pip install -r requirements.txt
 ```
 
